@@ -16,7 +16,7 @@ public class EstruturaFor {
 		soma = soma + x;
 		
 		}
-		System.out.println(soma);
+		System.out.println("Essa é a soma " + soma);
 		
 		sc.close();
 	}
